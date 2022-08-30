@@ -10,5 +10,5 @@ gosto de computaçao :smile:
 
 [https://pt.wikipedia.org/wiki/Ci%C3%AAncia_da_computa%C3%A7%C3%A3o]
 
-Estou cursando ![pensamento computacional](http://www.educadores.diaadia.pr.gov.br/modules/conteudo/conteudo.php?conteudo=1625)
+Estou cursando [pensamento computacional](http://www.educadores.diaadia.pr.gov.br/modules/conteudo/conteudo.php?conteudo=1625)
 
